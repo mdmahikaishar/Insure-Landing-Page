@@ -1,0 +1,9 @@
+{
+  "name": "insure-landing-page",
+  "version": "1.0.0",
+  "author": "mdmahikaishar <mahikaishar@gmail.com>",
+  "description": "Landing page for insure.",
+  "main": "index.js",
+  "keywords": ["landing page", "page", "website"],
+  "license": "ISC"
+}

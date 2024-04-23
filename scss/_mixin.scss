@@ -1,0 +1,15 @@
+@mixin desktop {
+    @media (max-width: 1075px) {
+        @content;
+    }
+}
+@mixin medium {
+    @media (max-width: 930px) {
+        @content;
+    }
+}
+@mixin mediumSub {
+    @media (max-width: 830px) {
+        @content;
+    }
+}
